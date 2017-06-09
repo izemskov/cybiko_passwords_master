@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A password store for the Cybiko Xtreme pocket pc. Data is encrypted using the xor function on the master password.
+A passwords store for the Cybiko Xtreme pocket pc. Data is encrypted using the xor function on the master password.
    
 ### Requirements
 
